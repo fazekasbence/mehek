@@ -1,0 +1,23 @@
+body{
+background-image :url("lepesmez.png");
+background-color : #ffb;
+background-repeat: repeat-y;
+font-size: 120;
+color: #840;
+margin-left :140px;
+margin-right: 20px;
+}
+
+h1{
+text-align:center   
+}
+
+div#torzs p:first-child{
+    
+}
+
+.forras:link{
+color:#840
+
+}
+
